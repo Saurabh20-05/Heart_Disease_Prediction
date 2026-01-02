@@ -1,4 +1,4 @@
-❤️ Heart Disease Prediction using Logistic Regression
+#❤️ Heart Disease Prediction using Logistic Regression
 
 This project uses **Logistic Regression** to predict whether a person has **heart disease or not** based on medical attributes.
 The model is trained on a structured dataset (`heart_disease_data.csv`) containing clinical parameters related to heart health.
@@ -80,6 +80,7 @@ or
 👨‍💻 Author
 
 Developed by Saurabh
+
 Feel free to connect or contribute to this project!
 
 ⭐ If you found this project helpful, don’t forget to star the repository!
