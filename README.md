@@ -1,11 +1,11 @@
-#❤️ Heart Disease Prediction using Logistic Regression
+# ❤️ Heart Disease Prediction using Logistic Regression
 
 This project uses **Logistic Regression** to predict whether a person has **heart disease or not** based on medical attributes.
 The model is trained on a structured dataset (`heart_disease_data.csv`) containing clinical parameters related to heart health.
 
 ---
 
-📘 Project Overview
+## 📘 Project Overview
 
 This is a **Machine Learning–based binary classification project**.
 By analyzing a patient’s medical data such as age, cholesterol level, blood pressure, and other health indicators, the model determines whether the person is likely to have heart disease.
@@ -14,7 +14,7 @@ The goal is to build a **simple, interpretable, and efficient heart disease pred
 
 ---
 
-🗂️ Dataset Information
+## 🗂️ Dataset Information
 
 - **Dataset Name:** Heart Disease Dataset  
 - **Format:** CSV file (`heart_disease_data.csv`)  
@@ -28,7 +28,7 @@ All other columns are treated as **input features**.
 
 ---
 
-🧠 Technologies Used
+## 🧠 Technologies Used
 
 - Python 3.x  
 - NumPy  
@@ -37,7 +37,7 @@ All other columns are treated as **input features**.
 
 ---
 
-⚙️ Project Workflow
+## ⚙️ Project Workflow
 
 1. Import required libraries  
 2. Load the dataset using Pandas  
@@ -54,7 +54,7 @@ All other columns are treated as **input features**.
 
 ---
 
-📊 Model Performance (Example)
+## 📊 Model Performance (Example)
 
 - **Accuracy on Training Data:** ~85%  
 - **Accuracy on Testing Data:** ~82%  
@@ -63,7 +63,7 @@ All other columns are treated as **input features**.
 
 ---
 
-🧪 Predicting Custom Input
+## 🧪 Predicting Custom Input
 
 You can modify this variable inside the code:
 
@@ -77,10 +77,9 @@ or
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Developed by Saurabh
-
+Developed by **Saurabh**
 Feel free to connect or contribute to this project!
 
-⭐ If you found this project helpful, don’t forget to star the repository!
+⭐ If you found this project helpful, don’t forget to **star** the repository!
